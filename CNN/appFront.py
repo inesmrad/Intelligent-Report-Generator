@@ -32,7 +32,7 @@ else:
             st.session_state.uploaded_file = None
             st.session_state.report_generated = False
             st.session_state.report_data = None
-            st.experimental_rerun()
+            st.rerun()
 
     # Right column: report generation
     with right_col:

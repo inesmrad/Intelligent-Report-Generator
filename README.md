@@ -1,6 +1,6 @@
 # Intelligent Report Generator
 
-This project is designed to generate intelligent reports using deep learning and data preprocessing techniques. It includes data cleaning, merging, and advanced modeling with BiLSTM architectures.
+This project is designed to generate intelligent reports using deep learning and data preprocessing techniques. It includes data cleaning, merging, and advanced modeling combining Computer Vision for brand recognition through transfer Learning, CNN and BiLSTM for sentiment analysis, and pre-trained LLM to generate automated reports detailing top product features, usage scenarios…
 
 ## Project Structure
 
@@ -9,7 +9,7 @@ This project is designed to generate intelligent reports using deep learning and
 - `merged_electronics_dataset.csv`: Merged dataset for electronics data.
 - `DL_Project_Preprocessing.ipynb`: Jupyter notebook for data preprocessing and exploration.
 - `Preliminary_Results/`: Folder containing preliminary results and experiments.
-  - `BiLSTM_Mistral.ipynb`: Notebook for BiLSTM model experiments.
+- `BiLSTM_Mistral.ipynb`: Notebook for BiLSTM model experiments.
 
 ## Getting Started
 

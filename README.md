@@ -7,7 +7,7 @@ This project is designed to generate intelligent reports using deep learning and
 The following diagram illustrates the end-to-end workflow of the Intelligent Report Generator, from data preprocessing to automated report generation.
 
 <p align="center">
-  <img src="uploads/Architecture.png" alt="System Architecture" width="900">
+  <img src="Architecture.png" alt="System Architecture" width="900">
 </p>
 
 ## Project Structure
@@ -24,7 +24,7 @@ The following diagram illustrates the end-to-end workflow of the Intelligent Rep
 The web interface allows users to upload an image, perform brand recognition, analyze customer sentiment, and automatically generate an AI-powered product report.
 
 <p align="center">
-  <img src="uploads/Interface.png" alt="Final Interface" width="900">
+  <img src="Interface.png" alt="Final Interface" width="900">
 </p>
 
 ## Getting Started

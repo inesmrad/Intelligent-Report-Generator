@@ -2,6 +2,14 @@
 
 This project is designed to generate intelligent reports using deep learning and data preprocessing techniques. It includes data cleaning, merging, and advanced modeling combining Computer Vision for brand recognition through transfer Learning, CNN and BiLSTM for sentiment analysis, and pre-trained LLM to generate automated reports detailing top product features, usage scenarios…
 
+## System Architecture
+
+The following diagram illustrates the end-to-end workflow of the Intelligent Report Generator, from data preprocessing to automated report generation.
+
+<p align="center">
+  <img src="uploads/Architecture.png" alt="System Architecture" width="900">
+</p>
+
 ## Project Structure
 
 - `app.py`: Main application script.
@@ -10,6 +18,14 @@ This project is designed to generate intelligent reports using deep learning and
 - `DL_Project_Preprocessing.ipynb`: Jupyter notebook for data preprocessing and exploration.
 - `Preliminary_Results/`: Folder containing preliminary results and experiments.
 - `BiLSTM_Mistral.ipynb`: Notebook for BiLSTM model experiments.
+
+## Final Interface
+
+The web interface allows users to upload an image, perform brand recognition, analyze customer sentiment, and automatically generate an AI-powered product report.
+
+<p align="center">
+  <img src="uploads/Interface.png" alt="Final Interface" width="900">
+</p>
 
 ## Getting Started
 
